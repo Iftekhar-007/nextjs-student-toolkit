@@ -1,5 +1,10 @@
 import Image from "next/image";
 
 export default function Home() {
-  return <>My boos shown boos</>;
+  return (
+    <>
+      <h2>Hi from shawon</h2>
+      <p>hi from soriful boos</p>
+    </>
+  );
 }
