@@ -1,5 +1,5 @@
 import React from "react";
 
 export default function Navbar() {
-  return <div>Navbar</div>;
+  return <div>Navbar new navbar item add from soriful branch</div>;
 }
