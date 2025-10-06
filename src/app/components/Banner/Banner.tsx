@@ -6,6 +6,7 @@ const Banner = () => {
       <h2>OKay</h2>
       <p>Banner doing</p>
       <p>another</p>
+      <p>another from soriful</p>
     </div>
   );
 };
